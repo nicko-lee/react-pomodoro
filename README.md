@@ -1,6 +1,6 @@
 # [React Pomodoro](http://afonsopacifer.github.io/react-pomodoro/)
 
-Forked from https://travis-ci.org/afonsopacifer/react-pomodoro to test out a deploy of a React App to GitHub Pages and can be accessed here: https://nicko-lee@github.io/react-pomodoro
+Forked from https://github.com/afonsopacifer/react-pomodoro to test out a deploy of a React App to GitHub Pages and can be accessed here: https://nicko-lee.github.io/react-pomodoro/
 
 [![Build Status](https://travis-ci.org/afonsopacifer/react-pomodoro.svg?branch=master)](https://travis-ci.org/afonsopacifer/react-pomodoro)
 [![release](https://img.shields.io/badge/release-v0.4.1-brightgreen.svg)](https://github.com/afonsopacifer/react-pomodoro/archive/0.4.1.zip)
